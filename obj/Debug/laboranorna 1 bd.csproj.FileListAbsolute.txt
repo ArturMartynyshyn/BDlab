@@ -1,0 +1,20 @@
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\laboranorna 1 bd.exe.config
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\laboranorna 1 bd.exe
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\laboranorna 1 bd.pdb
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna 1 bd.csproj.AssemblyReference.cache
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.About.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.Calculator.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.MyBD.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.Properties.Resources.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna 1 bd.csproj.GenerateResource.cache
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna 1 bd.csproj.CoreCompileInputs.cache
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna 1 bd.exe
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna 1 bd.pdb
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\System.Memory.dll
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\bin\Debug\System.Buffers.dll
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.LogIn.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laborano.73EC9A79.Up2Date
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.frmKatalog.resources
+C:\Users\lobst\source\repos\laboranorna 1 bd\laboranorna 1 bd\obj\Debug\laboranorna_1_bd.frmOsoba.resources
